@@ -18,7 +18,7 @@ export interface GiftData {
 // CUSTOMER DATA
 // ============================================================
 const defaultGift: GiftData = {
-  name: "Yahya",                                      // اسم مستلم الهدية
+  name: "yahya",                                      // اسم مستلم الهدية
   senderName: "your love",                            // التوقيع في آخر الرسالة (اختياري)
   envelopeImage: "/images/envelope-aya.png",          // صورة الظرف
   birthdayImage: "/images/birthday-aya.png",          // صورة الهدية النهائية

@@ -3,8 +3,8 @@ import GiftClient from '@/components/GiftClient'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Happy Birthday Yahya!🎂',
-  description: 'A special birthday message for Yahya',
+  title: 'Happy Birthday yahya!🎂',
+  description: 'A special birthday message for yahya',
 }
 
 export default function Home() {
