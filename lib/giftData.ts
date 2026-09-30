@@ -30,7 +30,7 @@ I love you more y 7ayaty ♥️`,
 };
 
 const giftData: Record<string, GiftData> = {
-  ahmed: defaultGift,
+  yahya: defaultGift,
   aya: defaultGift,
 };
 

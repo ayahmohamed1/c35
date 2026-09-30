@@ -8,6 +8,6 @@ export const metadata: Metadata = {
 }
 
 export default function Home() {
-  const data = giftData.ahmed || giftData.aya
+  const data = giftData.yahya || giftData.aya
   return <GiftClient data={data} />
 }
