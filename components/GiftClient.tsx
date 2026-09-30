@@ -634,7 +634,7 @@ export default function GiftClient({ data }: Props) {
                   </>
                 ) : (
                   <>
-                    <h2 className="gift-title" style={{ marginBottom: '1rem', color: '#5c3826' }}>Happy Birthday, habiby! 🎂</h2>
+                    <h2 className="gift-title" style={{ marginBottom: '1rem', color: '#5c3826' }}>Happy Birthday, Yahya! 🎂</h2>
                     <p className="description">
                       May all your wishes and dreams come true this year! ✨
                     </p>
@@ -889,7 +889,7 @@ export default function GiftClient({ data }: Props) {
             <footer style={{ textAlign: 'center', padding: '40px 15px 110px 15px', position: 'relative', zIndex: 20 }}>
               <div style={{ fontSize: '1.8rem', marginBottom: '8px' }}>👑</div>
               <p style={{ color: '#5c3826', fontStyle: 'italic', fontSize: '1.1rem', fontWeight: 600 }}>
-                Made with all my love for you, {data.name || 'Ahmed'} ❤️
+                Made with all my love for you, {data.name || 'Yahya'} ❤️
               </p>
               <p style={{ fontSize: '0.8rem', color: '#8d6e63', marginTop: '6px', letterSpacing: '0.15em' }}>
                 FOREVER & ALWAYS
